@@ -7,6 +7,8 @@
 # Assignment: Lab Topic 6
 # Date: 10/2/2023
 #
+
+#imports
 from math import *
 n = abs(int(input("Enter a positive integer: ")))
 originalN = n

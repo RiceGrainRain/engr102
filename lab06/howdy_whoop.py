@@ -7,6 +7,8 @@
 # Assignment: Lab Topic 6
 # Date: 10/2/2023
 #
+
+#no imports
 int1 = int(input("Enter an integer: "))
 int2 = int(input("Enter another integer: "))
 for i in range(1, 101):

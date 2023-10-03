@@ -7,6 +7,8 @@
 # Assignment: Lab Topic 6
 # Date: 10/2/2023
 #
+
+#imports
 from math import sqrt
 
 sideLength = float(input('Enter the side length in meters: '))
